@@ -1,2 +1,2 @@
 Hello GitHub
-this is the dev branch&
+Creating a new branch is quick and simple.
